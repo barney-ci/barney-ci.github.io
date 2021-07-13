@@ -1,0 +1,1 @@
+This repo simply exists to redirect requests to `go get barney.ci/bar` to arista's internal hosting of this repo.
